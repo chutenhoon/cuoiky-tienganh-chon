@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "subject": "Revision for the 1st Semester – Grade 12 (2025-2026) – All Tests",
+  "subject": "Revision for the 1st Semester – Grade 12 (2025-2026) – Part 1 (TEST 1, TEST 2, TEST 3)",
   "questions": [
     {
       "id": "TEST1_Q1",
@@ -154,7 +154,7 @@
         "c - b - a",
         "a - b - c",
         "a - c - b",
-        "b - c - a"
+        "b - c – a"
       ],
       "answer": 1
     },
@@ -175,10 +175,10 @@
       "type": "mcq",
       "question": "Mark the best arrangement:\nDear Nhung,\na. The party will take place at my house on Sunday at 6 PM.\nb. It will be a great chance for us to enjoy delicious food, play fun games, and share memories before you leave.\nc. Let me know if you can make it. I really hope to see you then!\nd. I’m going to have a farewell party after the Tet holiday. Would you like to come?\ne. I want to make this a special moment to say goodbye and wish you all the best.\nBest regards,\nAnna",
       "choices": [
-        "a - b - d - e - c",
-        "e - b - c - d - a",
-        "d - e - a - b - c",
-        "b - a - e - c - d"
+        "a - b - d - e – c",
+        "e - b - c- d - a",
+        "d - e - a - b – c",
+        "b - a - e - c – d"
       ],
       "answer": 2
     },
@@ -187,9 +187,9 @@
       "type": "mcq",
       "question": "Mark the best arrangement:\na. Recycling is one of the most effective ways, as it transforms plastic waste into new products and reduces the need for new plastic production.\nb. Finally, educating people about the impact of plastic waste can encourage more responsible disposal habits and reduce overall plastic usage.\nc. Another solution is to use biodegradable alternatives to plastics, which break down faster and have less impact on the environment.\nd. Reducing plastic waste requires a variety of approaches to be successful.\ne. Additionally, governments can implement policies to limit single-use plastics and promote reusable items in daily life.",
       "choices": [
-        "d - a - e - c - b",
-        "d - a - c - e - b",
-        "a - d - e - b - c",
+        "d - a - e - c – b",
+        "d - a - c - e – b",
+        "a - d - e - b – c",
         "d - c - a - b - e"
       ],
       "answer": 0
@@ -199,10 +199,10 @@
       "type": "mcq",
       "question": "Mark the best arrangement:\na. In the future, smart cities will be designed to make life more convenient and sustainable for their residents.\nb. Furthermore, transportation in these cities will be managed by self-driving cars and interconnected public transit, reducing traffic congestion and pollution.\nc. These cities will be equipped with sensors to monitor air quality, energy use, and water levels, providing real-time data to improve city management.\nd. Additionally, smart cities will also use renewable energy sources, like solar and wind power, to decrease their environmental impact.\ne. In conclusion, with advanced technology and eco-friendly practices, smart cities promise a higher quality of life and a greener future.",
       "choices": [
-        "a - c - b - e - d",
-        "a - b - d - e - c",
-        "a - c - b - d - e",
-        "a - d - b - c - e"
+        "a - c - b - e – d",
+        "a - b - d - e – c",
+        "a - c - b - d – e",
+        "a - d - b - c – e"
       ],
       "answer": 2
     },
@@ -517,7 +517,7 @@
     {
       "id": "TEST2_Q4",
       "type": "mcq",
-      "question": "Show the features (4) ______ your customers that truly set you apart",
+      "question": "Show the features (4) ______ your customers",
       "choices": [
         "from",
         "with",
@@ -683,9 +683,9 @@
       "answer": 0
     },
     {
-      "id": "TEST2_COMPLETION18",
+      "id": "TEST2_Q18",
       "type": "mcq",
-      "question": "releasing balloons or sky lanterns provides a spectacular sight. They are also flown for (18) ____ and sending wishes to the sky.",
+      "question": "They are also flown for (18) ____ and sending wishes to the sky.",
       "choices": [
         "to bring good luck",
         "brings good luck",
@@ -695,7 +695,7 @@
       "answer": 3
     },
     {
-      "id": "TEST2_COMPLETION19",
+      "id": "TEST2_Q19",
       "type": "mcq",
       "question": "However, the litter left behind the balloons and lanterns is hard to decompose. (19) ___.",
       "choices": [
@@ -707,7 +707,7 @@
       "answer": 1
     },
     {
-      "id": "TEST2_COMPLETION20",
+      "id": "TEST2_Q20",
       "type": "mcq",
       "question": "However, fireworks actually release (20) ____.",
       "choices": [
@@ -719,9 +719,9 @@
       "answer": 3
     },
     {
-      "id": "TEST2_COMPLETION21",
+      "id": "TEST2_Q21",
       "type": "mcq",
-      "question": "When Christmas is over and the real trees go to landfills, they produce methane and carbon dioxide, (21) _____.",
+      "question": "they produce methane and carbon dioxide, (21) _____.",
       "choices": [
         "that are two harmful greenhouse gases",
         "are two harmful greenhouse gases",
@@ -731,9 +731,9 @@
       "answer": 2
     },
     {
-      "id": "TEST2_COMPLETION22",
+      "id": "TEST2_Q22",
       "type": "mcq",
-      "question": "Fake trees can be reused for many years, but during their production, harmful pollutants are released into the air. And when they end in landfills, (22) ____",
+      "question": "And when they end in landfills, (22) ____",
       "choices": [
         "they will take hundreds of years to decompose",
         "taking hundreds of years to decompose",
@@ -745,7 +745,7 @@
     {
       "id": "TEST2_READING1",
       "type": "reading",
-      "passage": "The overall level of urbanization in Indonesia is low in relation to other countries that are at a comparable stage of economic growth. This can be explained by the phenomenon of nonpermanent, or “circular,” migration on Java and elsewhere: individuals from rural areas live and work in the cities, but they return to their homes at least once every six months. Nevertheless, although there is regional variation in urban growth rates, cities of every population size are growing rapidly.\nThe growth of the cities has not been accompanied by a parallel growth of industry. The outlook of much of the urban population is still rural. For example, large parts of the population, even in Jakarta, live in settlements that amount to urban kampongs (villages), maintaining rural customs. Urban dwellers generally have a higher standard of living than their rural counterparts, but the availability of adequate housing, potable water, and public transportation services has remained a critical concern.\nIndonesia’s urban areas also display great social and economic diversity. The upper class consists of government officials, military officers, and business leaders with a Western orientation; the growing middle class includes civil servants, teachers, and other professionals, as well as skilled workers who typically must struggle to maintain their economic position; and the lower class comprises a larger number of minimally educated and unskilled laborers, traders, and other members of the informal economy who strongly identify with their villages and frequently move back and forth to engage in economic pursuits in both areas.\nThe significant rural migration rate in main cities makes them ethnically diverse. Jakarta is the most diverse. Many individuals born or raised there still refer to themselves as Batak, Javanese, or Minangkabau and use their local languages at home. These ethnic ties often are strengthened by trips to home villages during harvest time or Ramadan month.\n(Adapted from https://www.britannica.com/Indonesia/Urban-settlement)",
+      "passage": "The overall level of urbanization in Indonesia is low in relation to other countries that are at a comparable stage of economic growth. This can be explained by the phenomenon of nonpermanent, or “circular,” migration on Java and elsewhere: individuals from rural areas live and work in the cities, but they return to their homes at least once every six months. Nevertheless, although there is regional variation in urban growth rates, cities of every population size are growing rapidly.\nThe growth of the cities has not been accompanied by a parallel growth of industry. The outlook of much of the urban population is still rural. For example, large parts of the population, even in Jakarta, live in settlements that amount to urban kampongs (villages), maintaining rural customs. Urban dwellers generally have a higher standard of living than their rural counterparts, but the availability of adequate housing, potable water, and public transportation services has remained a critical concern.\nIndonesia’s urban areas also display great social and economic diversity. The upper class consists of government officials, military officers, and business leaders with a Western orientation; the growing middle class includes civil servants, teachers, and other professionals, as well as skilled workers who typically must struggle to maintain their economic position; and the lower class comprises a larger number of minimally educated and unskilled laborers, traders, and other members of the informal economy who strongly identify with their villages and frequently move back and forth to engage in economic pursuits in both areas.\nThe significant rural migration rate in main cities makes them ethnically diverse. Jakarta is the most diverse. Many individuals born or raised there still refer to themselves as Batak, Javanese, or Minangkabau and use their local languages at home. These ethnic ties often are strengthened by trips to home villages during harvest time or Ramadan month.",
       "questions": [
         {
           "id": "TEST2_Q23",
@@ -1005,7 +1005,7 @@
     {
       "id": "TEST3_Q5",
       "type": "mcq",
-      "question": "look at people's professional network profiles. And if you prefer (5) _____ business contacts",
+      "question": "If you want to talk about work and (5) _____ business contacts",
       "choices": [
         "do",
         "make",
@@ -1017,7 +1017,7 @@
     {
       "id": "TEST3_Q6",
       "type": "mcq",
-      "question": "look at their social network profiles! And if you prefer (6) _____ fun",
+      "question": "And if you prefer (6) _____ fun and chat about travelling and shopping",
       "choices": [
         "to having",
         "having",
@@ -1159,7 +1159,7 @@
       "answer": 3
     },
     {
-      "id": "TEST3_COMPLETION18",
+      "id": "TEST3_Q18",
       "type": "mcq",
       "question": "One of the most advanced examples, Ameca, (18) ______. ",
       "choices": [
@@ -1171,7 +1171,7 @@
       "answer": 0
     },
     {
-      "id": "TEST3_COMPLETION19",
+      "id": "TEST3_Q19",
       "type": "mcq",
       "question": "Ameca was developed by Engineered Arts, (19) ______. ",
       "choices": [
@@ -1183,7 +1183,7 @@
       "answer": 0
     },
     {
-      "id": "TEST3_COMPLETION20",
+      "id": "TEST3_Q20",
       "type": "mcq",
       "question": "(20) ______. ",
       "choices": [
@@ -1195,7 +1195,7 @@
       "answer": 2
     },
     {
-      "id": "TEST3_COMPLETION21",
+      "id": "TEST3_Q21",
       "type": "mcq",
       "question": "(21) ______. ",
       "choices": [
@@ -1207,7 +1207,7 @@
       "answer": 1
     },
     {
-      "id": "TEST3_COMPLETION22",
+      "id": "TEST3_Q22",
       "type": "mcq",
       "question": "Powered by advanced AI systems, (22) ______. ",
       "choices": [
@@ -1217,217 +1217,6 @@
         "One of Ameca's capabilities is engaging in meaningful conversations"
       ],
       "answer": 0
-    },
-    {
-      "id": "TEST3_READING1",
-      "type": "reading",
-      "passage": "The overall level of urbanization in Indonesia is low in relation to other countries that are at a comparable stage of economic growth. This can be explained by the phenomenon of nonpermanent, or “circular,” migration on Java and elsewhere: individuals from rural areas live and work in the cities, but they return to their homes at least once every six months. Nevertheless, although there is regional variation in urban growth rates, cities of every population size are growing rapidly.\nThe growth of the cities has not been accompanied by a parallel growth of industry. The outlook of much of the urban population is still rural. For example, large parts of the population, even in Jakarta, live in settlements that amount to urban kampongs (villages), maintaining rural customs. Urban dwellers generally have a higher standard of living than their rural counterparts, but the availability of adequate housing, potable water, and public transportation services has remained a critical concern.\nIndonesia’s urban areas also display great social and economic diversity. The upper class consists of government officials, military officers, and business leaders with a Western orientation; the growing middle class includes civil servants, teachers, and other professionals, as well as skilled workers who typically must struggle to maintain their economic position; and the lower class comprises a larger number of minimally educated and unskilled laborers, traders, and other members of the informal economy who strongly identify with their villages and frequently move back and forth to engage in economic pursuits in both areas.\nThe significant rural migration rate in main cities makes them ethnically diverse. Jakarta is the most diverse. Many individuals born or raised there still refer to themselves as Batak, Javanese, or Minangkabau and use their local languages at home. These ethnic ties often are strengthened by trips to home villages during harvest time or Ramadan month.",
-      "questions": [
-        {
-          "id": "TEST3_Q23",
-          "question": "The word they in paragraph 1 refers to ______.",
-          "choices": [
-            "cities",
-            "individuals",
-            "homes",
-            "areas"
-          ],
-          "answer": 1
-        },
-        {
-          "id": "TEST3_Q24",
-          "question": "Which of the following best paraphrases the underlined sentence in paragraph 2?",
-          "choices": [
-            "Industrial progress has outpaced the development of cities in some aspects.",
-            "The increase in urban areas has been mirrored by equivalent industrial growth.",
-            "The growth of the cities has been influenced by the vibrant industry.",
-            "While cities have expanded, industry has failed to grow at the same rate."
-          ],
-          "answer": 3
-        },
-        {
-          "id": "TEST3_Q25",
-          "question": "The word potable in paragraph 2 could be best replaced by ______.",
-          "choices": [
-            "drinkable",
-            "polluted",
-            "portable",
-            "salty"
-          ],
-          "answer": 0
-        },
-        {
-          "id": "TEST3_Q26",
-          "question": "The phrase identify with in paragraph 3 is OPPOSITE in meaning to ______.",
-          "choices": [
-            "turn away from",
-            "form attachments to",
-            "feel sympathy with",
-            "remain linked to"
-          ],
-          "answer": 0
-        },
-        {
-          "id": "TEST3_Q27",
-          "question": "Which of the following is NOT mentioned as a critical concern in Indonesian urban areas?",
-          "choices": [
-            "adequate housing",
-            "potable water",
-            "rural customs",
-            "public transportation services"
-          ],
-          "answer": 2
-        },
-        {
-          "id": "TEST3_Q28",
-          "question": "Which of the following is NOT TRUE according to the passage?",
-          "choices": [
-            "Indonesian cities are growing quickly because of urbanization.",
-            "Skilled workers in Indonesia can easily maintain their economic position.",
-            "Many people living in urban kampongs still keep rural customs",
-            "Indonesian business leaders gradually have a Western orientation."
-          ],
-          "answer": 1
-        },
-        {
-          "id": "TEST3_Q29",
-          "question": "In which paragraph does the writer compare the overall level of urbanization in Indonesia with that in other countries?",
-          "choices": [
-            "Paragraph 1",
-            "Paragraph 2",
-            "Paragraph 3",
-            "Paragraph 4"
-          ],
-          "answer": 0
-        },
-        {
-          "id": "TEST3_Q30",
-          "question": "In which paragraph does the writer discuss the ethnic diversity of Indonesia's main cities?",
-          "choices": [
-            "Paragraph 1",
-            "Paragraph 2",
-            "Paragraph 3",
-            "Paragraph 4"
-          ],
-          "answer": 3
-        }
-      ]
-    },
-    {
-      "id": "TEST3_READING2",
-      "type": "reading",
-      "passage": "The Evolving World of Work\n[I] The global workplace has undergone profound changes in recent decades, driven by rapid technological advancements and evolving societal expectations. [II] Approximately 25% of workers worldwide now engage in flexible work arrangements, such as remote or hybrid models, and experts forecast this could climb to 45% by 2040. [III] Numerous factors lead to this transformation, which generates both significant opportunities and complex challenges. [IV]\nSeveral factors push workers away from traditional office-based employment. For instance, lengthy commutes through congested urban areas and rigid schedules often disrupt work-life balance, making conventional jobs less appealing. Additionally, the escalating cost of leasing and maintaining urban office spaces imposes a heavy financial burden on businesses, prompting a reevaluation of workplace models. By contrast, flexible work arrangements offer compelling advantages. These models allow employees to work from home or other locations, saving substantial time and money on commuting. They also provide access to sophisticated digital tools, such as cloud-based platforms and virtual meeting software, which enable seamless collaboration and enhance productivity across geographically dispersed teams.\nThe shift to flexible work has profound consequences for economies and communities. First, remote work expands employment opportunities by enabling companies to recruit talent from diverse regions, including underserved rural areas, thus fostering inclusive growth. However, it can exacerbate inequalities, as not all workers have access to reliable high-speed internet or ergonomic home workspaces. Second, the declining demand for commercial office spaces is reshaping urban economies, reducing foot traffic in city centers and challenging the vitality of business districts. As a result, some cities face difficulties in sustaining economic dynamism while adapting to these new workplace trends.\nThe evolution of work is a multifaceted process that demands a comprehensive understanding of its causes and effects. By implementing inclusive policies, such as subsidies for digital infrastructure and training programs for disadvantaged workers, governments and businesses can ensure that flexible work promotes productivity, equity, and economic stability without leaving vulnerable populations behind.",
-      "questions": [
-        {
-          "id": "TEST3_Q31",
-          "question": "Where in paragraph 1 does the following sentence best fit? More workers are adopting flexible work arrangements each year.",
-          "choices": [
-            "[I]",
-            "[II]",
-            "[III]",
-            "[IV]"
-          ],
-          "answer": 1
-        },
-        {
-          "id": "TEST3_Q32",
-          "question": "The phrase lead to in paragraph 1 could be best replaced by _______.",
-          "choices": [
-            "result from",
-            "contribute to",
-            "depend on",
-            "bring out"
-          ],
-          "answer": 0
-        },
-        {
-          "id": "TEST3_Q33",
-          "question": "The word They in paragraph 2 refers to _______.",
-          "choices": [
-            "digital tools",
-            "platforms",
-            "flexible work arrangements",
-            "businesses"
-          ],
-          "answer": 2
-        },
-        {
-          "id": "TEST3_Q34",
-          "question": "According to paragraph 2, which of the following is NOT a push factor for moving away from traditional office-based employment?",
-          "choices": [
-            "Lengthy commutes",
-            "Adaptable work environments",
-            "Rigid schedules",
-            "High office space costs"
-          ],
-          "answer": 1
-        },
-        {
-          "id": "TEST3_Q35",
-          "question": "Which of the following best summarizes paragraph 3?",
-          "choices": [
-            "Flexible work creates job opportunities but harms urban economies and increases inequalities among communities.",
-            "Remote work addresses economic challenges while promoting fairness for all workers.",
-            "The shift to flexible work offers job growth and inclusivity but challenges equality and urban economies.",
-            "Reduced demand for office spaces is the primary consequence of flexible work models."
-          ],
-          "answer": 2
-        },
-        {
-          "id": "TEST3_Q36",
-          "question": "The word profound in paragraph 3 is OPPOSITE in meaning to _______.",
-          "choices": [
-            "extensive",
-            "restricted",
-            "significant",
-            "negative"
-          ],
-          "answer": 1
-        },
-        {
-          "id": "TEST3_Q37",
-          "question": "Which of the following is TRUE according to the passage?",
-          "choices": [
-            "Both push and pull factors drive the shift toward flexible work arrangements.",
-            "Flexible work is the primary solution to urban economic challenges.",
-            "All workers have equal access to the resources needed for flexible work.",
-            "By 2040, traditional office jobs will no longer exist globally."
-          ],
-          "answer": 0
-        },
-        {
-          "id": "TEST3_Q38",
-          "question": "Which of the following best paraphrases the underlined sentence in paragraph 4?",
-          "choices": [
-            "Understanding the causes and effects of work evolution is critical for its success.",
-            "If work evolution were less complex, its causes and effects could be easily understood.",
-            "Work evolution becomes simple once its causes and effects are fully grasped.",
-            "A thorough understanding of work evolution’s causes is needed to address its complexities."
-          ],
-          "answer": 0
-        },
-        {
-          "id": "TEST3_Q39",
-          "question": "Which of the following can be inferred from the passage?",
-          "choices": [
-            "Push factors outweigh pull factors in driving flexible work adoption.",
-            "Inadequate digital infrastructure may worsen inequalities and hinder flexible work benefits.",
-            "The decline in office use has no significant impact on urban business districts and urban economies.",
-            "By 2040, over 50% of workers will engage in flexible work arrangements."
-          ],
-          "answer": 1
-        },
-        {
-          "id": "TEST3_Q40",
-          "question": "Which of the following best summarizes the passage?",
-          "choices": [
-            "Driven by technological and societal changes, flexible work boosts job opportunities and efficiency but challenges equality and urban economies, necessitating inclusive policies for sustainable outcomes.",
-            "The shift to flexible work, driven by costly office spaces, transforms workplaces but creates intractable social and economic issues.",
-            "Flexible work expands due to technology and worker preferences, enhancing productivity but causing significant urban and equality challenges."
-          ],
-          "answer": 0
-        }
-      ]
     },
     {
       "id": "TEST4_Q1",
@@ -1444,7 +1233,7 @@
     {
       "id": "TEST4_Q2",
       "type": "mcq",
-      "question": "handling returns or answering product inquiries (2) ____ such as",
+      "question": "other (2) ____ such as handling returns or answering product inquiries",
       "choices": [
         "efficient customer services",
         "services efficient customer",
@@ -1552,7 +1341,7 @@
     {
       "id": "TEST4_Q11",
       "type": "mcq",
-      "question": "Feel free to (11) ____ to the Event Organizer if you have any questions",
+      "question": "Feel free to (11) ____ to the Event Organizer",
       "choices": [
         "pass away",
         "carry on",
@@ -1634,7 +1423,7 @@
       "answer": 2
     },
     {
-      "id": "TEST4_COMPLETION18",
+      "id": "TEST4_Q18",
       "type": "mcq",
       "question": "(18) ________. These colorful events",
       "choices": [
@@ -1646,7 +1435,7 @@
       "answer": 2
     },
     {
-      "id": "TEST4_COMPLETION19",
+      "id": "TEST4_Q19",
       "type": "mcq",
       "question": "Rio de Janeiro's Carnival, one of the most famous festivals, (19) _______.",
       "choices": [
@@ -1658,7 +1447,7 @@
       "answer": 0
     },
     {
-      "id": "TEST4_COMPLETION20",
+      "id": "TEST4_Q20",
       "type": "mcq",
       "question": "(20) ________. Meanwhile, Japan's Cherry Blossom Festival",
       "choices": [
@@ -1670,7 +1459,7 @@
       "answer": 1
     },
     {
-      "id": "TEST4_COMPLETION21",
+      "id": "TEST4_Q21",
       "type": "mcq",
       "question": "The Notting Hill Carnival in London, (21) ________, has become Europe's biggest street festival",
       "choices": [
@@ -1682,7 +1471,7 @@
       "answer": 3
     },
     {
-      "id": "TEST4_COMPLETION22",
+      "id": "TEST4_Q22",
       "type": "mcq",
       "question": "Although these events have different origins, (22) ________.",
       "choices": [
@@ -2265,7 +2054,7 @@
     {
       "id": "TEST5_Q31",
       "type": "mcq",
-      "question": "Since its launch in 2004, Facebook has transformed the way billions of people connect and communicate. (31) ________.",
+      "question": "(31) ________.",
       "choices": [
         "The platform was created with the main purpose of helping people meet online, and Zuckerberg has allowed everyone to share more information and make friends.",
         "Zuckerberg helped build a platform that allows users to share information, make friends, and join online communities",
@@ -2289,7 +2078,7 @@
     {
       "id": "TEST5_Q33",
       "type": "mcq",
-      "question": "(33) ________, he created a digital ecosystem that has contributed to the growth of the global tech industry.",
+      "question": "(33) ________, he created a digital ecosystem",
       "choices": [
         "Regardless of relationships and collaborations with leading tech companies worldwide",
         "With a deep understanding of technology and the global market",
@@ -2301,7 +2090,7 @@
     {
       "id": "TEST5_Q34",
       "type": "mcq",
-      "question": "After Facebook went public in 2012, Zuckerberg continued to lead the company through numerous challenges, achieving significant success. (34) ________.",
+      "question": "(34) ________.",
       "choices": [
         "His life is a testament to perseverance and innovation, making him a major influence in the tech industry",
         "Despite his perseverance and development to innovate in technology, he is known as a great example of great influence",
@@ -2361,7 +2150,7 @@
     {
       "id": "TEST5_Q39",
       "type": "mcq",
-      "question": "The festival also represents the appreciation of a (39) ___________ .",
+      "question": "The festival also represents the appreciation of a (39) ___________",
       "choices": [
         "successful harvest season",
         "season harvest successful",
@@ -2493,7 +2282,7 @@
     {
       "id": "TEST6_Q10",
       "type": "mcq",
-      "question": "Many companies are (10) ______ helping young workers by offering on-the-job training programs",
+      "question": "Many companies are (10) ______ helping young workers",
       "choices": [
         "on behalf of",
         "in control of",
@@ -2505,7 +2294,7 @@
     {
       "id": "TEST6_Q11",
       "type": "mcq",
-      "question": "If teaching is your dream, you can become a (11) ______ and learn while working in a classroom",
+      "question": "If teaching is your dream, you can become a (11) ______",
       "choices": [
         "teaching trainer",
         "teaching assistant",
@@ -2553,4 +2342,310 @@
     {
       "id": "TEST6_Q15",
       "type": "mcq",
-      "question": "Mark the best arrangement:\nDear Sir/ Madam,\na. I believe my skills will be useful for your company. I am excited to learn more about this job.\nb. These jobs helped me learn to talk to people, organize things, and work well with others.\nc. I am writing to apply for the tour guide job at SaigonTourCo. I am very interested in this opportunity.\nd. I have experience in different jobs. I used to be a receptionist at King hotel. I also worked for three years at a book store.\ne. I also have a certificate in social work teaching me how to understand and deal with different people.\nThank you for reading my letter
+      "question": "Mark the best arrangement:\nDear Sir/ Madam,\na. I believe my skills will be useful for your company. I am excited to learn more about this job.\nb. These jobs helped me learn to talk to people, organize things, and work well with others.\nc. I am writing to apply for the tour guide job at SaigonTourCo. I am very interested in this opportunity.\nd. I have experience in different jobs. I used to be a receptionist at King hotel. I also worked for three years at a book store.\ne. I also have a certificate in social work teaching me how to understand and deal with different people.\nThank you for reading my letter.\nSincerely,",
+      "choices": [
+        "a-b-d-e-c",
+        "d-b-a-e-c",
+        "c-e-d-a-b",
+        "c-d-b-e-a"
+      ],
+      "answer": 3
+    },
+    {
+      "id": "TEST6_Q16",
+      "type": "mcq",
+      "question": "Mark the best arrangement:\na. Many residents have already signed up and started using the service.\nb. It’s a great step towards making the city greener and more sustainable.\nc. The city has launched a new bike-sharing program to reduce traffic congestion.\nd. People can now rent bikes from different stations around the city.\ne. This initiative aims to promote eco-friendly transportation.",
+      "choices": [
+        "d-e-a-b-c",
+        "b-d-e-a-c",
+        "c-d-a-e-b",
+        "a-b-d-c-e"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "TEST6_Q17",
+      "type": "mcq",
+      "question": "Mark the best arrangement:\na. For instance, using digital notes and online forms can significantly decrease paper usage.\nb. Together, these efforts can lead to a more sustainable future.\nc. The excessive use of paper not only leads to deforestation but also contributes to pollution.\nd. Moreover, educational institutions can play a vital role by teaching students about sustainability.\ne. To combat this issue, individuals can adopt a paperless approach in their daily lives.",
+      "choices": [
+        "c-e-d-a-b",
+        "c-e-a-d-b",
+        "d-e-c-b-a",
+        "a-e-b-c-d"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "TEST6_Q18",
+      "type": "mcq",
+      "question": "A major trend is the rise of remote work, (18) ______. ",
+      "choices": [
+        "which has become more and more widespread",
+        "whose job has reduced workplace conflicts",
+        "which it is difficult for some employees to adapt to",
+        "that has been adopted by a few companies"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "TEST6_Q19",
+      "type": "mcq",
+      "question": "Another significant change is the increasing importance of lifelong learning and skill development. (19) ______. ",
+      "choices": [
+        "Many companies are unwilling to invest in employee growth through skills-based workshops",
+        "This has led to the implementation of various training programs to enhance employees' skills",
+        "It is clear that lifelong learning plays a crucial role in career advancement",
+        "Upskilling is now considered optional for most workers"
+      ],
+      "answer": 1
+    },
+    {
+      "id": "TEST6_Q20",
+      "type": "mcq",
+      "question": "This shift ensures employees (20) ______. ",
+      "choices": [
+        "are better prepared for the evolving job market",
+        "were initially prepared for the evolving job market",
+        "that had been better prepared for the evolving job market",
+        "of whom the preparation was enhanced for the evolving job market"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "TEST6_Q21",
+      "type": "mcq",
+      "question": "Diversity and inclusion are also key priorities for many organizations. (21) ______, ",
+      "choices": [
+        "In response to growing calls for equality, organizations are improving their hiring practices",
+        "To meet the demands of a changing society, workplace diversity is now a secondary goal",
+        "In response to this, companies are taking significant steps to create more inclusive workplaces",
+        "Companies are focusing on diversity to attract more customers, not employees"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "TEST6_Q22",
+      "type": "mcq",
+      "question": "Lastly, organizations are focusing more on employee well-being. (22) ______. ",
+      "choices": [
+        "They are introducing wellness programs and flexible schedules",
+        "They are reducing working hours to prevent stress among employees",
+        "As a result, employee satisfaction and well-being have improved significantly",
+        "Therefore, employees are expected to manage their stress and workloads independently"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "TEST6_READING1",
+      "type": "reading",
+      "passage": "Urbanization refers to the process through which cities grow and expand as more people move from rural to urban areas. This phenomenon is driven by various factors, including economic opportunities, educational facilities, and healthcare services, which often attract individuals seeking better living standards. As cities become more populated, they undergo significant transformations in infrastructure, including housing, transportation, and public services.\nThe rise in urban populations can lead to both positive and negative outcomes. On the positive side, urbanization can stimulate economic development, innovation, and cultural exchange. It often brings improvements in living standards and provides better access to services and amenities. However, rapid urban growth can also strain existing infrastructure, leading to issues such as overcrowding, pollution, and inadequate public services. These challenges can impact the quality of life in urban areas and require careful planning and management.\nEffective urban planning is crucial to mitigating the negative effects of urbanization. This includes creating sustainable infrastructure, managing resources efficiently, and ensuring equitable access to services for all residents. By addressing these challenges, cities can harness the benefits of urbanization while improving the overall quality of urban life.",
+      "questions": [
+        {
+          "id": "TEST6_Q23",
+          "question": "Which of the following is NOT mentioned as a factor driving urbanization?",
+          "choices": [
+            "Economic opportunities",
+            "Healthcare services",
+            "Climate change",
+            "Educational facilities"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "TEST6_Q24",
+          "question": "The word stimulate in paragraph 2 is OPPOSITE in meaning to ______.",
+          "choices": [
+            "encourage",
+            "promote",
+            "hinder",
+            "accelerate"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "TEST6_Q25",
+          "question": "The word they in paragraph 1 refers to ______.",
+          "choices": [
+            "rural areas",
+            "cities",
+            "economic opportunities",
+            "suburban"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "TEST6_Q26",
+          "question": "The word mitigating in paragraph 3 could best be replaced by ______.",
+          "choices": [
+            "worsening",
+            "addressing",
+            "preventing",
+            "reducing"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "TEST6_Q27",
+          "question": "Which of the following best paraphrases the underlined sentence in paragraph 3?",
+          "choices": [
+            "Good urban planning is essential to address urbanization’s adverse effects.",
+            "Proper urban planning can help reduce the negative impacts of urban growth.",
+            "Mitigating urbanization’s drawbacks requires effective urban planning.",
+            "Managing urbanization’s negative consequences relies on strategic urban planning."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "TEST6_Q28",
+          "question": "According to the passage, which of the following is TRUE?",
+          "choices": [
+            "Urbanization always improves living standards.",
+            "Rapid urbanization can lead to overcrowding and pollution.",
+            "Economic development is rarely associated with urbanization.",
+            "Urban growth only brings negative outcomes."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "TEST6_Q29",
+          "question": "In which paragraph does the writer mention the benefits of urbanization?",
+          "choices": [
+            "Paragraph 1",
+            "Paragraph 2",
+            "Paragraph 3",
+            "Paragraph 4"
+          ],
+          "answer": 1
+        },
+        {
+          "id": "TEST6_Q30",
+          "question": "In which passage does the author mention that durable infrastructure helps manage the impacts of urbanization?",
+          "choices": [
+            "Paragraph 1",
+            "Paragraph 2",
+            "Paragraph 3",
+            "Paragraph 4"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "TEST6_READING2",
+      "type": "reading",
+      "passage": "(I) Climate change is one of the most urgent issues facing the world today. With rising temperatures and increasing sea levels, the impact of climate change is already being felt around the globe. (II) This makes it clear that immediate action is necessary to prevent further damage. (III) Educating students about the environment and climate change is more important than ever, especially when some people, such as oil and gas representatives in Austin, are trying to prevent climate change from being taught in schools. (IV)\nA recent study by The Lancet shows that 70% of young people between the ages of 16 and 25 are \" very or extremely worried\" about climate change. This concern, known as \"climate anxiety,\" highlights the need to provide students with both knowledge and practical solutions. By teaching students about climate change and what they can do to help, educators can give young people the tools they need to make a positive difference, even if their actions may seem small at first.\nDespite having easy access to information, many students struggle with misinformation online. This is why it is so important to teach students how to tell the difference between true and false information. Teachers can help students understand the real state of the planet by providing them with accurate facts and evidence. By doing so, educators can help students see the bigger picture while also giving them hope by showing them that there are actions they can take to help protect the environment.\nAs climate anxiety grows, it is essential that teachers provide clear, actionable steps for students to become more involved in protecting the environment. By focusing on practical solutions and encouraging climate-conscious behavior, educators can help prepare students to take on the challenge of climate change and make a positive impact on the world.",
+      "questions": [
+        {
+          "id": "TEST6_Q31",
+          "question": "Where in paragraph 1 does the following sentence fit? It is therefore crucial that future generations understand the importance of protecting the environment.",
+          "choices": [
+            "(I)",
+            "(II)",
+            "(III)",
+            "(IV)"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "TEST6_Q32",
+          "question": "The word representatives in paragraph 1 could be best replaced by _______.",
+          "choices": [
+            "officials who make decisions",
+            "experts who give advice",
+            "people who represent others",
+            "employees who work for companies"
+          ],
+          "answer": 2
+        },
+        {
+          "id": "TEST6_Q33",
+          "question": "The word they in paragraph 2 refers to _______.",
+          "choices": [
+            "educators",
+            "students",
+            "teachers",
+            "solutions"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "TEST6_Q34",
+          "question": "According to paragraph 2, which of the following is NOT a reason to educate students about climate change?",
+          "choices": [
+            "To provide students with knowledge and practical solutions",
+            "To help students make a positive difference, even in small actions",
+            "To alleviate \"climate anxiety\"",
+            "To promote climate denial among young people"
+          ],
+          "answer": 3
+        },
+        {
+          "id": "TEST6_Q35",
+          "question": "Which of the following best summarizes paragraph 3?",
+          "choices": [
+            "Teachers help students distinguish between information online and take action on climate change.",
+            "Teachers provide students with information about the environment to make them aware of climate change.",
+            "Educators focus only on teaching students about climate change without considering misinformation.",
+            "Teachers encourage students to ignore online information and rely solely on personal experience."
+          ],
+          "answer": 0
+        },
+        {
+          "id": "TEST6_Q36",
+          "question": "The word accurate in paragraph 3 is OPPOSITE in meaning to _______.",
+          "choices": [
+            "incorrect",
+            "authentic",
+            "precise",
+            "irregular"
+          ],
+          "answer": 0
+        },
+        {
+          "id": "TEST6_Q37",
+          "question": "Which of the following statements is TRUE according to the passage?",
+          "choices": [
+            "Oil and gas representatives fully support teaching climate change in schools.",
+            "Teachers should avoid using the internet as a source for climate change facts.",
+            "Misinformation online is a challenge for students learning about climate change.",
+            "Only a few young people are worried about climate change."
+          ],
+          "answer": 2
+        },
+        {
+          "id": "TEST6_Q38",
+          "question": "Which of the following best paraphrases the underlined sentence in paragraph 3?",
+          "choices": [
+            "Educators guide students to grasp the problem and offer hope with clear solutions.",
+            "Teachers teach students to be afraid of the environment and its challenges.",
+            "Students are not able to take action on climate change without teacher guidance.",
+            "Helping students understand the environment leads them to ignore the facts."
+          ],
+          "answer": 0
+        },
+        {
+          "id": "TEST6_Q39",
+          "question": "What can be inferred from the passage about the role of teachers in addressing climate change?",
+          "choices": [
+            "Teachers should avoid discussing climate change to prevent student anxiety.",
+            "Teachers are key in helping students understand and act on climate change.",
+            "Teachers are not concerned about the impact of climate change on students.",
+            "Teachers focus mostly on the political aspects of climate change."
+          ],
+          "answer": 1
+        },
+        {
+          "id": "TEST6_Q40",
+          "question": "Which of the following best summarizes the passage?",
+          "choices": [
+            "Climate change is a distant issue, and students do not need to learn about it.",
+            "Climate change education empowers students to act, despite misinformation.",
+            "Young people should focus only on small actions to reduce climate change.",
+            "Teachers are not responsible for teaching students about climate change."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}
